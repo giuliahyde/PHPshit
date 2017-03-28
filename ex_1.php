@@ -7,7 +7,7 @@
 
 		<h2>Somma di due numeri</h2>
 
-		<form name="form" method="post" action="Esercizio4Somma.php">
+		<form name="form" method="post" action="ex_1.php">
 			Primo addendo <input type="text" name="Add1" value="0" maxlength="5">
 			<br>
 			Secondo addendo <input type="text" name="Add2" value="0" maxlength="5">
